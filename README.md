@@ -1,4 +1,4 @@
-**Mechatronics Engineer | Data Engineering | AI & Computer Vision**
+## Mechatronics Engineer | Data Engineering | AI & Computer Vision
 
 Soy estudiante de Ingeniería Mecatrónica enfocado en el diseño de **infraestructura de datos, automatización inteligente e integración de inteligencia artificial en procesos reales**, especialmente orientado a entornos empresariales e industriales.
 
